@@ -245,13 +245,23 @@ export default function Home() {
         <span>
           built by{" "}
           <a
-            href="mailto:ashutoshswamy397@gmail.com"
+            href="https://ashutoshswamy.in"
+            target="_blank"
+            rel="noopener noreferrer"
             className="text-bone/70 transition-colors hover:text-key"
           >
             Ashutosh Swamy
           </a>
         </span>
         <span className="flex flex-wrap justify-center gap-x-4 gap-y-1">
+          <a
+            href="https://ashutoshswamy.in"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-bone/70 transition-colors hover:text-key"
+          >
+            Portfolio
+          </a>
           <a
             href="https://github.com/ashutoshswamy"
             target="_blank"

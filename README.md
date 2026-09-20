@@ -16,6 +16,12 @@ Background remover that runs entirely in your browser. Upload up to 5 photos, th
 - Tailwind CSS
 - [`@imgly/background-removal`](https://www.npmjs.com/package/@imgly/background-removal) for in-browser background removal
 
+## SEO
+
+- Metadata, OpenGraph/Twitter cards, canonical URL set for `mattebgremover.ashutoshswamy.in`
+- `app/robots.ts` + `app/sitemap.ts` (Next.js file conventions)
+- Social preview image: `public/og-image.png`
+
 ## Getting started
 
 Install dependencies and run the dev server:
@@ -36,8 +42,9 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Author
 
-Built by [Ashutosh Swamy](https://github.com/ashutoshswamy)
+Built by [Ashutosh Swamy](https://ashutoshswamy.in)
 
+- Portfolio: [ashutoshswamy.in](https://ashutoshswamy.in)
 - GitHub: [@ashutoshswamy](https://github.com/ashutoshswamy)
 - LinkedIn: [ashutoshswamy](https://linkedin.com/in/ashutoshswamy)
 - X: [@ashutoshswamy_](https://x.com/ashutoshswamy_)

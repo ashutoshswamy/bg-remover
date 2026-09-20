@@ -18,17 +18,17 @@
   --color-key-dim: var(--key-dim);
   --color-slate: var(--slate);
   --color-leader: var(--leader);
-  --font-display: var(--font-display);
-  --font-body: var(--font-body);
+  --font-sans: var(--font-sans);
   --font-mono: var(--font-mono);
 }
 
 body {
-  font-family: var(--font-body), Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans), Arial, Helvetica, sans-serif;
 }
 
 .font-display {
-  font-family: var(--font-display), Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans), Arial, Helvetica, sans-serif;
+  font-weight: 800;
 }
 
 .font-mono {
